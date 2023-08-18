@@ -19,7 +19,7 @@ if 3 in numeros:
 else:
     print('Não houve número 3')
 for n in numeros:
-    if n % 
+    if n % 2 == 0:
         print(f'Números pares: {pares}')
     else:
         print('Não houve números pares')
